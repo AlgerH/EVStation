@@ -1,0 +1,63 @@
+﻿# Visual Studio / Rider / VS Code
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.sln.iml
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb][Ii][Nn]/
+[Ll][Oo][Gg][Ss]/
+[Ll][Oo][Gg][Ss]/
+
+
+# Visual Studio Code folders
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.iml
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.iml
+*.suo
+*.user
+*.sln.iml
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb][Ii][Nn]/
+[Ll][Oo][Gg][Ss]/
+[Ll][Oo][Gg][Ss]/
+
+
+# Visual Studio Code folders
+.vscode/
+.idea/
