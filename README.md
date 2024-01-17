@@ -1,27 +1,18 @@
-# EVStation 
+# Project Overview
+This project focuses on developing and implementing an XML data standard for electric vehicle (EV) charging infrastructure. As part of a collaborative effort, this initiative aims to enhance data openness and sharing to address the challenges faced by EV owners in locating charging stations.
 
-此程式為項次1 充電站(樁)營運業者資料 /Parking/EV/EVOperator
- 
-# 電動車充電站(樁)資料標準
+# Key Contributions
+## Data Standard Formulation: Actively participated in the creation of the 'Electric Vehicle Charging Station Data Standard', directing efforts towards XML data standardization to foster a seamless EV charging experience.
 
-請參考 \\EVApiMOTC\01-Doc\
+## Data Models and Specifications: Played a crucial role in shaping various aspects of the standard, including establishing data models, naming conventions, and detailed specifications for charging stations and associated equipment.
 
-## 緣起與目的
+## Interdisciplinary Collaboration: Engaged with experts and stakeholders across the transportation and energy sectors to devise comprehensive guidelines. These guidelines encompass charging station details, operator information, and operational specifications.
 
-依據國發會淨零路徑規劃，致力於推動運具電動化及無碳化。規劃階段里程碑如下：
+# Impact
+The project contributes significantly to the growth of Taiwan's EV market by ensuring interoperability and accessibility for EV users. By facilitating easier location of charging stations, it marks a step forward in promoting sustainable transportation.
 
-為實現上述目標，依照「電動車充電站(樁)資料標準」，旨在推動這一資料的開放共享，解決未來電動車車主尋找充電站(樁)位置的問題，提高國內電動車市佔率，實現淨零碳排的目標。
-
-## 應用範圍及使用限制
-
-本「電動車充電站(樁)資料標準」適用於各種地點，包括但不限於：
-
-- 路外停車場
-- 路邊停車路段
-- 加油站
-- 重要運輸場站
-- 高速公路服務區
-- 觀光風景區
-
-請注意，目前本標準僅適用於電動汽車，尚不包括電動巴士和電動機車(電池交換站)。
+# Repository Contents
+## Source Code: Contains the implementation of the data standard in various programming environments.
+## Documentation: Detailed guidelines and specifications for the data standard, including XML schemas and data models.
+## Case Studies: Real-world applications and examples showcasing the implementation of the data standard in different scenarios.
 
